@@ -7,12 +7,15 @@ This is a placeholder organization for some projects I've been working on for th
 
 3D driving environment based on [Three.js](https://threejs.org/) and [Cannon-es](https://pmndrs.github.io/cannon-es/) with terrain and track editor.
 
-| Terrain editor                                                                                 | Demo (mov)                                                                                    |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![](https://raw.githubusercontent.com/noodlestan/.github/main/profile/assets/mr-green.png)     | ![](https://raw.githubusercontent.com/noodlestan/.github/main/profile/assets/mr-green.mov)    |
+| Terrain editor                                                                                 | Demo                                                                                                  |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| ![](https://raw.githubusercontent.com/noodlestan/.github/main/profile/assets/mr-green.png)     | [Video (33MB)](https://raw.githubusercontent.com/noodlestan/.github/main/profile/assets/mr-green.mov) |
 
 
 This is my playground and promise of a complete "game". It might take years for me to come back to this project, maybe meanwhile newer versions of `canon=es` have better performance and less limitations
+
+
+Curious? Read more at [https://github.com/noodlestan/mr-green](https://github.com/noodlestan/mr-green)
 
 ## [Noodles UI](https://github.com/noodlestan/noodles-ui)
 
@@ -50,4 +53,4 @@ I mostly use it to browse my collection of photos and videos when at home.
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | ![](https://raw.githubusercontent.com/noodlestan/.github/main/profile/assets/mr-noodles-folders.png) | ![](https://raw.githubusercontent.com/noodlestan/.github/main/profile/assets/mr-noodles-timeline.png) |
 
-Curious? Read more at [https://github.com/noodlestan/noodles-ui](https://github.com/noodlestan/mr-noodles)
+Curious? Read more at [https://github.com/noodlestan/mr-noodles](https://github.com/noodlestan/mr-noodles)
