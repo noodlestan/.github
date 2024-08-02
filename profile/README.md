@@ -3,17 +3,18 @@
 This is a placeholder organization for some projects I've been working on for the last couple of months.
 
 
-## [Noodles UI](https://github.com/noodlestan/mr-green)
+## [Mr Green](https://github.com/noodlestan/mr-green)
 
 3D driving environment based on [Three.js](https://threejs.org/) and [Cannon-es](https://pmndrs.github.io/cannon-es/) with terrain and track editor.
 
-| Terrain editor                                                                                 | Demo                                                                                                  |
-| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| ![](https://raw.githubusercontent.com/noodlestan/.github/main/profile/assets/mr-green.png)     | [Video (33MB)](https://raw.githubusercontent.com/noodlestan/.github/main/profile/assets/mr-green.mov) |
+| Terrain editor                                                                                        | 
+| ----------------------------------------------------------------------------------------------------- | 
+| ![](https://raw.githubusercontent.com/noodlestan/.github/main/profile/assets/mr-green.png)            |
+|                                                                                                       |
+| [Video (33MB)](https://raw.githubusercontent.com/noodlestan/.github/main/profile/assets/mr-green.mov) |
 
 
 This is my playground and promise of a complete "game". It might take years for me to come back to this project, maybe meanwhile newer versions of `canon=es` have better performance and less limitations
-
 
 Curious? Read more at [https://github.com/noodlestan/mr-green](https://github.com/noodlestan/mr-green)
 
